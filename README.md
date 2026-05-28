@@ -23,12 +23,7 @@ Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=0285
 
 <!-- badges: end -->
 
-<p>
-
-<img align="right" src="man/figures/logo.png" height="200px">
-</p>
-
-# vcdExtra
+# vcdExtra <a><img align="right" src="man/figures/logo.png" height="200px"></a>
 
 ## Extensions and additions to vcd: Visualizing Categorical Data
 
