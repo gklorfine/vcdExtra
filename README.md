@@ -23,13 +23,18 @@ Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=0285
 
 <!-- badges: end -->
 
-# vcdExtra <img src="man/figures/logo.png" style="float:right; height:200px;" />
+<p>
+
+<img align="right" src="man/figures/logo.png" height="200px">
+</p>
+
+# vcdExtra
 
 ## Extensions and additions to vcd: Visualizing Categorical Data
 
 <!-- Version 0.8-6 -->
 
-Version 0.9.5; documentation built for `pkgdown` 2026-04-02
+Version 0.9.5; documentation built for `pkgdown` 2026-05-27
 
 This package provides additional data sets, documentation, and many
 functions designed to extend the
